@@ -37,7 +37,7 @@ const Login = () => {
         </div>
       </div>
       <div className="mt-6 mr-0 mb-6 ml-0 space-y-2">
-        <p className="text-xs text-gray-600 inline">Don't have an account?</p>
+        <p className="text-xs text-gray-600 inline"> Dont have an account?</p>
         <p className="text-xs inline text-purple-700 hover:text-black">Create an account</p>
         <a className="text-xs mt-2 mr-0 mb-0 ml-0 block text-purple-700 hover:text-black">Forgot password?</a>
         <a className="text-xs mt-3 mr-0 mb-0 ml-0 block text-purple-700 hover:text-black">Privacy & Terms</a>
